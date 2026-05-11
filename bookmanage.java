@@ -83,3 +83,4 @@ public class bookmanage {
         }
     }
 }
+http://localhost:8008/book?name=JavaProgramming&id=101&price=500
